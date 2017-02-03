@@ -168,7 +168,9 @@ render templates in script tags
 - **[can-define-stream]** <small><%can-define-stream.package.version%></small> Define property values using streams
   - `npm install can-define-stream --save`
   - <a class="github-button" href="https://github.com/canjs/can-define-stream" data-count-href="/canjs/can-define-stream/stargazers" data-count-api="/repos/canjs/can-define-stream#stargazers_count">Star</a>
-
+- **[can-observe]** <small><%can-observe.package.version%></small> Create plain observable objects
+  - `npm install can-observe --save`
+  - <a class="github-button" href="https://github.com/canjs/can-observe" data-count-href="/canjs/can-observe/stargazers" data-count-api="/repos/canjs/can-observe#stargazers_count">Star</a>
 
 </div>
 
@@ -266,6 +268,7 @@ __Ecosystem collection__
   "can-view-import": "<%can-view-import.package.version%>",
   "can-zone": "<%can-zone.package.version%>",
   "steal-stache": "<%steal-stache.package.version%>",
+  "can-observe": "<%can-observe.package.version%>"
 ```
 
 __Legacy Collection__
